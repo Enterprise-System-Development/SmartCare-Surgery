@@ -1,8 +1,6 @@
-# SmartCare-Surgery 
-
-Group Members:
+# Group Members
+Anisa Rafai
 Deane Sales
 Emmanuel Edmund
-Anisa Rafai
 Jiggy Rodriguez
 Jon Corales
